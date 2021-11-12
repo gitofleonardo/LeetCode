@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/code/leetcode/editor/cn/[883]三维形体投影面积.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/code/leetcode/editor/cn/doc/content/[883]三维形体投影面积.md" />
+              <option name="path" value="$PROJECT_DIR$/code/leetcode/editor/cn/[883]三维形体投影面积.cpp" />
+              <option name="questionId" value="919" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/code/leetcode/editor/cn/[884]两句话中的不常见单词.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/code/leetcode/editor/cn/doc/content/[884]两句话中的不常见单词.md" />
+              <option name="path" value="$PROJECT_DIR$/code/leetcode/editor/cn/[884]两句话中的不常见单词.cpp" />
+              <option name="questionId" value="920" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/code/leetcode/editor/cn/[888]公平的糖果棒交换.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/code/leetcode/editor/cn/doc/content/[888]公平的糖果棒交换.md" />
+              <option name="path" value="$PROJECT_DIR$/code/leetcode/editor/cn/[888]公平的糖果棒交换.cpp" />
+              <option name="questionId" value="924" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
