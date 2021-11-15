@@ -30,6 +30,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/code/leetcode/editor/cn/[892]三维形体的表面积.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/code/leetcode/editor/cn/doc/content/[892]三维形体的表面积.md" />
+              <option name="path" value="$PROJECT_DIR$/code/leetcode/editor/cn/[892]三维形体的表面积.cpp" />
+              <option name="questionId" value="928" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
       </map>
     </option>
   </component>

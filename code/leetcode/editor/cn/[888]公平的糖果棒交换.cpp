@@ -51,6 +51,8 @@
 // Related Topics 数组 哈希表 二分查找 排序 👍 181 👎 0
 #include <cmath>
 #include <vector>
+#include <map>
+#include <string>
 
 using namespace std;
 
@@ -58,7 +60,26 @@ using namespace std;
 class Solution {
 public:
     vector<int> fairCandySwap(vector<int>& aliceSizes, vector<int>& bobSizes) {
-
+        map<int,int> cnt;
+        vector<int> result;
+        int sum1=0,sum2=0;
+        for (auto &i:aliceSizes){
+            sum1+=i;
+            ++cnt[i];
+        }
+        for (auto &i:bobSizes){
+            sum2+=i;
+        }
+        int dist = (sum2 - sum1)/2;
+        for (auto &b:bobSizes){
+            auto d = b-dist;
+            if (cnt[d]!=0){
+                result.push_back(d);
+                result.push_back(b);
+                break;
+            }
+        }
+        return result;
     }
 };
 //leetcode submit region end(Prohibit modification and deletion)
